@@ -1,4 +1,4 @@
-public class App{
+class App{
 	
 	private int code;
 	private String name;
